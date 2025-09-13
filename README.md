@@ -1,3 +1,7 @@
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Davemiracle01/starcore-session)
+
+
+
 # 🔥 Starcore Session
 
 **Ultra-Light Pair Session Generator for Baileys Bots**  
@@ -111,3 +115,4 @@ if (config.SESSION_ID) {
 git clone https://github.com/XdKing2/starcore-session.git
 cd starcore-session
 npm install
+
